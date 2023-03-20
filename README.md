@@ -1,6 +1,6 @@
-# PRB-multisig
+# multisig secured wallet
 
-BUilding a MultiSig Wallet
+Building a MultiSig Wallet
 
 ![image](https://user-images.githubusercontent.com/45220490/226311831-51044fbc-86ed-4bf1-ba73-40e30ab10a8f.png)
 
